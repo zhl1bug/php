@@ -1,2 +1,0 @@
-# php
-dockerfile_php
